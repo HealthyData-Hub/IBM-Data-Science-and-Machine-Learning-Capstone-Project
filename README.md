@@ -29,17 +29,13 @@ To predict if the Falcon 9 first stage will land successfully.
 5. [**EDA with Visualisation**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/05_EDA_with_Visualisation.ipynb)
 6. [**Interactive Visual Analytics with Folium**](https://nbviewer.org/github/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/06_Interactive_Visual_Analytics_with_Folium.ipynb)
 7. [**Interactive Visual Analytics with Plotly**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/07_Interactive_Visual_Analytics_with_Plotly.py)
-8. [**Machine Learning Prediction**]
-
-
-
-
-
-It's a markdown file in this repository
-For notebook, 06_EDA_with_Visualisation, interactive maps aren't viewable in Github.  Please view using link below:
-https://nbviewer.org/github/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/06_Interactive_Visual_Analytics_with_Folium.ipynb
-
-
-
+8. [**Machine Learning Prediction**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/08_Machine_Learning_Prediction.ipynb)
+9. 9. [**Final Presentation (Slide)**]
 
 ![image for README](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/assets/81985545/01618a05-b9e8-4b20-b54f-6289a3d9d965)  
+
+### Acknowledgements 
+
+##### © Copyright IBM Corporation 1994, 2022.
+
+
