@@ -1,4 +1,4 @@
-# 🚀 IBM Capstone Data Science and Machine Learning Project (SpaceX)
+# 🚀 IBM Capstone Data Science and Machine Learning Project 
 
 ## Introduction and Background
 
