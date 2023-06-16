@@ -23,7 +23,7 @@ To predict if the Falcon 9 first stage will land successfully.
 ## Table of Contents
 
 1. [**Data Collection with API**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/01_Data_Collection_with_API.ipynb)
-2. [**Data Collection with Web Scraping**]
+2. [**Data Collection with Web Scraping**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/02_Data_Collection_with_Web_Scraping.ipynb)
 3. [**Data Wrangling**]
 4. [**EDA with SQL**]
 5. [**EDA with Visualisation**]
