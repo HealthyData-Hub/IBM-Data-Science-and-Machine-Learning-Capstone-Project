@@ -30,7 +30,7 @@ To predict if the Falcon 9 first stage will land successfully.
 6. [**Interactive Visual Analytics with Folium**](https://nbviewer.org/github/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/06_Interactive_Visual_Analytics_with_Folium.ipynb)
 7. [**Interactive Visual Analytics with Plotly**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/07_Interactive_Visual_Analytics_with_Plotly.py)
 8. [**Machine Learning Prediction**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/08_Machine_Learning_Prediction.ipynb)
-9. [**Final Presentation (Slides)**](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/IBM_Data_Science_with_Machine_Learning%20_Capstone_Project_Presentation.pptx)
+9. [**Final Presentation (Slides)**]([https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/IBM_Data_Science_with_Machine_Learning%20_Capstone_Project_Presentation.pptx](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/blob/master/IBM_Data_Science_with_Machine_Learning%20_Capstone_Project_Presentation.pdf))
 
 ![image for README](https://github.com/stephenmalcolm-hub/IBM-Data-Science-Capstone-Project/assets/81985545/01618a05-b9e8-4b20-b54f-6289a3d9d965)  
 
