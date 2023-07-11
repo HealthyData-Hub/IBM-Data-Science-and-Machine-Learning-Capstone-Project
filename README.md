@@ -18,7 +18,7 @@ To predict if the Falcon 9 first stage will land successfully.
 
 - How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing?
 - Does the rate of successful landings increase over time?
-- What is the best model that can be used for predicitng a successful landing?
+- What is the best model that can be used for predicting a successful landing?
 
 ## Table of Contents
 
